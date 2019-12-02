@@ -33,6 +33,10 @@ The main purpose is to predict if the customer will churn or not, the random fre
 
 The f1 score on train dataset is 92%, and on test dataset is 80%, but with tuning the hyperparameters the best model gives us 87% on test dataset, so I used it on validation dataset and the f1 score is 81% .
 
+## Files
+
+* Sparkify.ipynb: it is a python 3 notebook which contains the data analysis of medium datasetand machine learning techniques to build the best model. 
+
 ## Conclusion
 
 ### Reflection
