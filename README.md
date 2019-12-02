@@ -49,3 +49,7 @@ That we built a very good model that 81% f1 score was achieved, but there are mo
 2. Using the largest dataset, that will improve the performace of the model because we will have more train dataset
 3. Using other classifiers.
 4. extracting more features.
+
+
+## External Libraries
+1. [PySpark](https://spark.apache.org/docs/2.2.1/api/python/index.htm), SparkML
