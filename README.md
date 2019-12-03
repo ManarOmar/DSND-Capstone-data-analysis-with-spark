@@ -1,6 +1,6 @@
 # DSND Capstone Data Analysis with Spark
 
-Applying machine learning on a large dataset using PySpark
+Applying machine learning on a large dataset using PySpark, the blog post for this project is [here](https://medium.com/@manar.aljawarneh/music-service-data-analysis-with-spark-498575a5af83)
 
 ##  Project Overview
 
