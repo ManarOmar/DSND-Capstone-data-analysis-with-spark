@@ -4,8 +4,7 @@ Applying machine learning on a large dataset using PySpark
 
 ##  Project Overview
 
-This workspace contains a medium sized (240MB) of the full dataset available (12GB). 
-This notebook to analyze a subset of the big data (12GB) before deploying a spark cluster on the cloud using aws cloud to analyze larger amount of data.
+I worked with a medium sized (240MB) of the full dataset (12GB) using IBM Cloud.
 
 ### What is Sparkify
 
