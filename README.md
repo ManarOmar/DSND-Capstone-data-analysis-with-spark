@@ -8,7 +8,7 @@ I worked with a medium sized (240MB) of the full dataset (12GB) using IBM Cloud.
 
 ### What is Sparkify
 
-It is a fake popular digital music service similar to Spotify or Panadora, millions of users stream their favorite songs to this service every day either using the free tier that place advertisments between the songs, or using premium subscription model where they stream music as free  but pay a monthly flat rate, users can upgrade, downgrade, or cancel their service at any time, so it's crusial to make sure the users love the sevice.
+It is a fake popular digital music service similar to Spotify or Panadora, millions of users stream their favorite songs to this service every day either using the free tier that place advertisments between the songs, or using premium subscription model where they stream music as free  but pay a monthly flat rate, users can upgrade, downgrade, or cancel their service at any time, so it's crucial to make sure the users love the service.
 
 ## Problem Statement
 The data contains the key insights for keeping users happy and helping the business thrive, so me as a data scientist, my rule is helping the business growing and growing, so I can predict which users at risk to churn either downgrading from premium to free tier or cancelling their service alltogether, predicting these users before they leave accurately the business can offer them discounts and incentives, potentially saving this business millions in revenue. 
