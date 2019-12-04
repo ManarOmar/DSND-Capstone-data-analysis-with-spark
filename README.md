@@ -42,7 +42,7 @@ The f1 score on train dataset is 92%, and on test dataset is 80%, but with tunin
 
 Millions of users stream their favourite songs in this sparkify service, and our purpose in this project to predict if the customer will churn or not, so the PySpark and SparkML were used to analyze data and make predictions, the steps of working on this project followed from doing exploratory data nalysis to build intuition about the data, then feature engineering, then build machine learning pipelines on multiple estimators, and then choose the best one according to f1 score.
 
-Extracting the features from the datset to build machine learning models was the most interesting step, that you can be creative in this part.
+Extracting the features from the datset to build machine learning models was the most interesting step, that you can be creative in this part. I faced some difficulties to understand the (ts feature) what does it mean.
 
 ### Improvement
 
