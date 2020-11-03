@@ -4,7 +4,7 @@ Applying machine learning on a large dataset using PySpark, the blog post for th
 
 ##  Project Overview
 
-I worked with a medium sized (240MB) of the full dataset (12GB) using IBM Cloud.
+I worked with a medium sized (240MB) of the full dataset (12GB) using IBM Cloud. with all the steps needed in applying machine learning algorithms
 
 ### What is Sparkify
 
